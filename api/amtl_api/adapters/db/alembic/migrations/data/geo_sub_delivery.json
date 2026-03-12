@@ -1,0 +1,964 @@
+{
+  "www": {
+    "LocalityName": "Набережные Челны",
+    "postal_code": "655008",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Республика Татарстан",
+    "SubAdministrativeAreaName": "Комсомольский район",
+    "ThoroughfareName": "Низаметдинова улица",
+    "PremiseNumber": "8",
+    "pos": [
+      55.69789286054333,
+      52.365697777587314
+
+    ]
+  },
+  "abakan": {
+    "LocalityName": "Абакан",
+    "postal_code": "655008",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Республика Хакасия",
+    "SubAdministrativeAreaName": "городской округ Абакан",
+    "ThoroughfareName": "Заводская улица",
+    "PremiseNumber": "1",
+    "pos": [
+      53.705383,
+      91.374565
+    ]
+  },
+  "barnaul": {
+    "LocalityName": "Барнаул",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Алтайский край",
+    "SubAdministrativeAreaName": "муниципальное образование Барнаул",
+    "ThoroughfareName": "Балтийская улица",
+    "PremiseNumber": "84",
+    "pos": [
+      53.338032,
+      83.663911
+    ]
+  },
+  "belgorod": {
+    "LocalityName": "Белгород",
+    "postal_code": "308013",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Белгородская область",
+    "SubAdministrativeAreaName": "муниципальное образование Белгород",
+    "ThoroughfareName": "Коммунальная улица",
+    "PremiseNumber": "18",
+    "pos": [
+      50.560831,
+      36.655225
+    ]
+  },
+  "biysk": {
+    "LocalityName": "Бийск",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Алтайский край",
+    "SubAdministrativeAreaName": "городской округ Бийск",
+    "ThoroughfareName": "улица Василия Шадрина",
+    "PremiseNumber": "64",
+    "pos": [
+      52.524139,
+      85.160181
+    ]
+  },
+  "blagoveschensk": {
+    "LocalityName": "Благовещенск",
+    "postal_code": "675028",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Амурская область",
+    "SubAdministrativeAreaName": "городской округ Благовещенск",
+    "ThoroughfareName": "Студенческая улица",
+    "PremiseNumber": "15",
+    "pos": [
+      50.289225,
+      127.503727
+    ]
+  },
+  "briansk": {
+    "LocalityName": "Брянск",
+    "postal_code": "241035",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Брянская область",
+    "SubAdministrativeAreaName": "городской округ Брянск",
+    "ThoroughfareName": "улица Бурова",
+    "PremiseNumber": "20",
+    "pos": [
+      53.296203,
+      34.32098
+    ]
+  },
+  "vladivostok": {
+    "LocalityName": "Владивосток",
+    "postal_code": "690074",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Приморский край",
+    "SubAdministrativeAreaName": "Владивостокский городской округ",
+    "ThoroughfareName": "Посадская улица",
+    "PremiseNumber": "20",
+    "pos": [
+      43.13546,
+      131.936689
+    ]
+  },
+  "vladimir": {
+    "LocalityName": "Владимир",
+    "postal_code": "600031",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Владимирская область",
+    "SubAdministrativeAreaName": "городской округ Владимир",
+    "ThoroughfareName": "улица Куйбышева",
+    "PremiseNumber": "4",
+    "pos": [
+      56.16004,
+      40.381033
+    ]
+  },
+  "volgograd": {
+    "LocalityName": "Волгоград",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Волгоградская область",
+    "SubAdministrativeAreaName": "городской округ Волгоград",
+    "ThoroughfareName": "Моторная улица",
+    "PremiseNumber": "9А",
+    "pos": [
+      48.762401,
+      44.409653
+    ]
+  },
+  "vologda": {
+    "LocalityName": "Вологда",
+    "postal_code": "160024",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Вологодская область",
+    "SubAdministrativeAreaName": "городской округ Вологда",
+    "ThoroughfareName": "Северная улица",
+    "PremiseNumber": "27",
+    "pos": [
+      59.221795,
+      39.949446
+    ]
+  },
+  "voronezh": {
+    "LocalityName": "Воронеж",
+    "postal_code": "394019",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Воронежская область",
+    "SubAdministrativeAreaName": "городской округ Воронеж",
+    "ThoroughfareName": "улица Торпедо",
+    "PremiseNumber": "45В",
+    "pos": [
+      51.686646,
+      39.153503
+    ]
+  },
+  "ekb": {
+    "LocalityName": "Екатеринбург",
+    "postal_code": "620010",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Свердловская область",
+    "SubAdministrativeAreaName": "муниципальное образование Екатеринбург",
+    "ThoroughfareName": "улица Черняховского",
+    "PremiseNumber": "86к7",
+    "pos": [
+      56.757702,
+      60.752964
+    ]
+  },
+  "zlatoust": {
+    "LocalityName": "Златоуст",
+    "postal_code": "456228",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Челябинская область",
+    "SubAdministrativeAreaName": "Златоустовский городской округ",
+    "ThoroughfareName": "Таганайская улица",
+    "PremiseNumber": "204",
+    "pos": [
+      55.148297,
+      59.667844
+    ]
+  },
+  "ivanovo": {
+    "LocalityName": "Иваново",
+    "postal_code": "153011",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Ивановская область",
+    "SubAdministrativeAreaName": "городской округ Иваново",
+    "ThoroughfareName": "Суздальская улица",
+    "PremiseNumber": "16А",
+    "pos": [
+      56.991552,
+      40.908353
+    ]
+  },
+  "izhevsk": {
+    "LocalityName": "Ижевск",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Удмуртская Республика",
+    "SubAdministrativeAreaName": "городской округ Ижевск",
+    "ThoroughfareName": "улица Маяковского",
+    "PremiseNumber": "35",
+    "pos": [
+      56.816015,
+      53.202956
+    ]
+  },
+  "yoshkarola": {
+    "LocalityName": "Йошкар-Ола",
+    "postal_code": "424007",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Республика Марий Эл",
+    "SubAdministrativeAreaName": "городской округ Йошкар-Ола",
+    "ThoroughfareName": "улица Строителей",
+    "PremiseNumber": "76А",
+    "pos": [
+      56.626143,
+      47.846087
+    ]
+  },
+  "irkutsk": {
+    "LocalityName": "Иркутск",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Иркутская область",
+    "SubAdministrativeAreaName": "муниципальное образование Иркутск",
+    "ThoroughfareName": "улица Набережная Иркута",
+    "PremiseNumber": "1/1",
+    "pos": [
+      52.294903,
+      104.257385
+    ]
+  },
+  "kazan": {
+    "LocalityName": "Казань",
+    "postal_code": "420087",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Республика Татарстан",
+    "SubAdministrativeAreaName": "городской округ Казань",
+    "ThoroughfareName": "улица Аделя Кутуя",
+    "PremiseNumber": "151",
+    "pos": [
+      55.774538,
+      49.189939
+    ]
+  },
+  "kaliningrad": {
+    "LocalityName": "Калининград",
+    "postal_code": "236006",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Калининградская область",
+    "SubAdministrativeAreaName": "городской округ Калининград",
+    "ThoroughfareName": "Московский проспект",
+    "PremiseNumber": "184",
+    "pos": [
+      54.709023,
+      20.550705
+    ]
+  },
+  "kaluga": {
+    "LocalityName": "Калуга",
+    "postal_code": "248035",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Калужская область",
+    "SubAdministrativeAreaName": "городской округ Калуга",
+    "ThoroughfareName": "Грабцевское шоссе",
+    "PremiseNumber": "107",
+    "pos": [
+      54.554133,
+      36.349061
+    ]
+  },
+  "kemerovo": {
+    "LocalityName": "Кемерово",
+    "postal_code": "650070",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Кемеровская область",
+    "SubAdministrativeAreaName": "Кемеровский городской округ",
+    "ThoroughfareName": "улица Тухачевского",
+    "PremiseNumber": "60",
+    "pos": [
+      55.308874,
+      86.139902
+    ]
+  },
+  "kirov": {
+    "LocalityName": "Киров",
+    "postal_code": "610014",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Кировская область",
+    "SubAdministrativeAreaName": "муниципальное образование Киров",
+    "ThoroughfareName": "улица Щорса",
+    "PremiseNumber": "105",
+    "pos": [
+      58.578142,
+      49.595133
+    ]
+  },
+  "kostroma": {
+    "LocalityName": "Кострома",
+    "postal_code": "156013",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Костромская область",
+    "SubAdministrativeAreaName": "городской округ Кострома",
+    "ThoroughfareName": "проспект Мира",
+    "PremiseNumber": "116",
+    "pos": [
+      57.785205,
+      40.963815
+    ]
+  },
+  "krasnodar": {
+    "LocalityName": "Краснодар",
+    "postal_code": "350005",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Краснодарский край",
+    "SubAdministrativeAreaName": "муниципальное образование Краснодар",
+    "ThoroughfareName": "улица Александра Покрышкина",
+    "PremiseNumber": "2/4",
+    "pos": [
+      45.103462,
+      38.967686
+    ]
+  },
+  "krasnoyarsk": {
+    "LocalityName": "Красноярск",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Красноярский край",
+    "SubAdministrativeAreaName": "городской округ Красноярск",
+    "ThoroughfareName": "Северное шоссе",
+    "PremiseNumber": "17",
+    "pos": [
+      56.074891,
+      92.927904
+    ]
+  },
+  "kursk": {
+    "LocalityName": "Курск",
+    "postal_code": "305040",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Курская область",
+    "SubAdministrativeAreaName": "городской округ Курск",
+    "ThoroughfareName": "улица 50 лет Октября",
+    "PremiseNumber": "179",
+    "pos": [
+      51.765641,
+      36.132495
+    ]
+  },
+  "lipetsk": {
+    "LocalityName": "Липецк",
+    "postal_code": "398037",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Липецкая область",
+    "SubAdministrativeAreaName": "городской округ Липецк",
+    "ThoroughfareName": "Трубный проезд",
+    "PremiseNumber": "17Б",
+    "pos": [
+      52.627771,
+      39.53358
+    ]
+  },
+  "magadan": {
+    "LocalityName": "Магадан",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Магаданская область",
+    "SubAdministrativeAreaName": "городской округ Магадан",
+    "ThoroughfareName": "Марчеканский переулок",
+    "PremiseNumber": "25",
+    "pos": [
+      59.544409,
+      150.80767
+    ]
+  },
+  "miass": {
+    "LocalityName": "Миасс",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Челябинская область",
+    "SubAdministrativeAreaName": "городской округ Миасс",
+    "ThoroughfareName": "Хлебозаводская улица",
+    "PremiseNumber": "1А",
+    "pos": [
+      55.075886,
+      60.119481
+    ]
+  },
+  "moskow": {
+    "LocalityName": "Москва",
+    "postal_code": "121471",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Москва",
+    "SubAdministrativeAreaName": null,
+    "ThoroughfareName": "Рябиновая улица",
+    "PremiseNumber": "37с1",
+    "pos": [
+      55.704144,
+      37.424174
+    ]
+  },
+  "murmansk": {
+    "LocalityName": "Мурманск",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Мурманская область",
+    "SubAdministrativeAreaName": "городской округ Мурманск",
+    "ThoroughfareName": "Промышленная улица",
+    "PremiseNumber": "25",
+    "pos": [
+      68.996326,
+      33.13029
+    ]
+  },
+  "nalchik": {
+    "LocalityName": "Нальчик",
+    "postal_code": "360015",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Кабардино-Балкарская Республика",
+    "SubAdministrativeAreaName": "городской округ Нальчик",
+    "ThoroughfareName": "улица Циолковского",
+    "PremiseNumber": "7Б",
+    "pos": [
+      43.500909,
+      43.62308
+    ]
+  },
+  "nahodka": {
+    "LocalityName": "Находка",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Приморский край",
+    "SubAdministrativeAreaName": "Находкинский городской округ",
+    "ThoroughfareName": "Шоссейная улица",
+    "PremiseNumber": "68",
+    "pos": [
+      42.844056,
+      132.933585
+    ]
+  },
+  "neftekamsk": {
+    "LocalityName": "Нефтекамск",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Республика Башкортостан",
+    "SubAdministrativeAreaName": "городской округ Нефтекамск",
+    "ThoroughfareName": "Высоковольтная улица",
+    "PremiseNumber": "2А",
+    "pos": [
+      56.103462,
+      54.246484
+    ]
+  },
+  "nizhniynovgorod": {
+    "LocalityName": "Нижний Новгород",
+    "postal_code": "603124",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Нижегородская область",
+    "SubAdministrativeAreaName": "городской округ Нижний Новгород",
+    "ThoroughfareName": "Московское шоссе",
+    "PremiseNumber": "52",
+    "pos": [
+      56.309534,
+      43.907235
+    ]
+  },
+  "novokuznetsk": {
+    "LocalityName": "Новокузнецк",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Кемеровская область",
+    "SubAdministrativeAreaName": "Новокузнецкий городской округ",
+    "ThoroughfareName": "Полесская улица",
+    "PremiseNumber": "15",
+    "pos": [
+      53.730405,
+      87.173647
+    ]
+  },
+  "novorossiysk": {
+    "LocalityName": "Новороссийск",
+    "postal_code": "353960",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Краснодарский край",
+    "SubAdministrativeAreaName": "муниципальное образование Новороссийск",
+    "ThoroughfareName": "Промышленная улица",
+    "PremiseNumber": "1",
+    "pos": [
+      44.76724,
+      37.714411
+    ]
+  },
+  "novosibirsk": {
+    "LocalityName": "Новосибирск",
+    "postal_code": "630088",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Новосибирская область",
+    "SubAdministrativeAreaName": "городской округ Новосибирск",
+    "ThoroughfareName": "улица Петухова",
+    "PremiseNumber": "79/3",
+    "pos": [
+      54.945619,
+      82.929296
+    ]
+  },
+  "omsk": {
+    "LocalityName": "Омск",
+    "postal_code": "644031",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Омская область",
+    "SubAdministrativeAreaName": "городской округ Омск",
+    "ThoroughfareName": "улица 10 лет Октября",
+    "PremiseNumber": "180БлитБ",
+    "pos": [
+      54.987281,
+      73.445925
+    ]
+  },
+  "orel": {
+    "LocalityName": "Орёл",
+    "postal_code": "302004",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Орловская область",
+    "SubAdministrativeAreaName": "городской округ Орёл",
+    "ThoroughfareName": "Ливенская улица",
+    "PremiseNumber": "68А",
+    "pos": [
+      52.950501,
+      36.110433
+    ]
+  },
+  "orenburg": {
+    "LocalityName": "Оренбург",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Оренбургская область",
+    "SubAdministrativeAreaName": "городской округ Оренбург",
+    "ThoroughfareName": "Центральная улица",
+    "PremiseNumber": "1",
+    "pos": [
+      51.701942,
+      55.112074
+    ]
+  },
+  "orsk": {
+    "LocalityName": "Орск",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Оренбургская область",
+    "SubAdministrativeAreaName": "городской округ Орск",
+    "ThoroughfareName": "Грозненская улица",
+    "PremiseNumber": "4",
+    "pos": [
+      51.248551,
+      58.501444
+    ]
+  },
+  "penza": {
+    "LocalityName": "Пенза",
+    "postal_code": "440015",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Пензенская область",
+    "SubAdministrativeAreaName": "городской округ Пенза",
+    "ThoroughfareName": "Совхозная улица",
+    "PremiseNumber": "15литЗ",
+    "pos": [
+      53.241923,
+      45.021954
+    ]
+  },
+  "perm": {
+    "LocalityName": "Пермь",
+    "postal_code": "614095",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Пермский край",
+    "SubAdministrativeAreaName": "городской округ Пермь",
+    "ThoroughfareName": "улица Танкистов",
+    "PremiseNumber": "50",
+    "pos": [
+      57.98237,
+      56.209177
+    ]
+  },
+  "petrozavodsk": {
+    "LocalityName": "Петрозаводск",
+    "postal_code": "185005",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Республика Карелия",
+    "SubAdministrativeAreaName": "Петрозаводский городской округ",
+    "ThoroughfareName": "улица Коммунистов",
+    "PremiseNumber": "50",
+    "pos": [
+      61.774173,
+      34.402789
+    ]
+  },
+  "pskov": {
+    "LocalityName": "Псков",
+    "postal_code": "180002",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Псковская область",
+    "SubAdministrativeAreaName": "городской округ Псков",
+    "ThoroughfareName": "улица Генерала Маргелова",
+    "PremiseNumber": "47",
+    "pos": [
+      57.789014,
+      28.286493
+    ]
+  },
+  "rostov": {
+    "LocalityName": "Ростов-на-Дону",
+    "postal_code": "344091",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Ростовская область",
+    "SubAdministrativeAreaName": "городской округ Ростов-на-Дону",
+    "ThoroughfareName": "улица Малиновского",
+    "PremiseNumber": "3",
+    "pos": [
+      47.200813,
+      39.612982
+    ]
+  },
+  "ryazan": {
+    "LocalityName": "Рязань",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Рязанская область",
+    "SubAdministrativeAreaName": "городской округ Рязань",
+    "ThoroughfareName": "Окружная дорога, 185-й километр",
+    "PremiseNumber": "6АВ",
+    "pos": [
+      54.643869,
+      39.635925
+    ]
+  },
+  "samara": {
+    "LocalityName": "Самара",
+    "postal_code": "443031",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Самарская область",
+    "SubAdministrativeAreaName": "городской округ Самара",
+    "ThoroughfareName": "Демократическая улица",
+    "PremiseNumber": "45А",
+    "pos": [
+      53.273377,
+      50.226532
+    ]
+  },
+  "peterburg": {
+    "LocalityName": "Санкт-Петербург",
+    "postal_code": "195220",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Санкт-Петербург",
+    "SubAdministrativeAreaName": null,
+    "ThoroughfareName": "проспект Науки",
+    "PremiseNumber": "21к1",
+    "pos": [
+      60.010987,
+      30.40048
+    ]
+  },
+  "saratov": {
+    "LocalityName": "Саратов",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Саратовская область",
+    "SubAdministrativeAreaName": "муниципальное образование город Саратов",
+    "ThoroughfareName": "Автокомбинатовская улица",
+    "PremiseNumber": "12/6",
+    "pos": [
+      51.604044,
+      45.93095
+    ]
+  },
+  "smolensk": {
+    "LocalityName": "Смоленск",
+    "postal_code": "214012",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Смоленская область",
+    "SubAdministrativeAreaName": "муниципальное образование Смоленск",
+    "ThoroughfareName": "улица Кашена",
+    "PremiseNumber": "23",
+    "pos": [
+      54.796957,
+      32.018409
+    ]
+  },
+  "sochi": {
+    "LocalityName": "Сочи",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Краснодарский край",
+    "SubAdministrativeAreaName": "городской округ Сочи",
+    "ThoroughfareName": "Краснодонская улица",
+    "PremiseNumber": "64",
+    "pos": [
+      43.650038,
+      39.753676
+    ]
+  },
+  "stavropol": {
+    "LocalityName": "Ставрополь",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Ставропольский край",
+    "SubAdministrativeAreaName": "городской округ Ставрополь",
+    "ThoroughfareName": "проспект Кулакова",
+    "PremiseNumber": "28Б",
+    "pos": [
+      45.078295,
+      41.930707
+    ]
+  },
+  "surgut": {
+    "LocalityName": "Сургут",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Тюменская область",
+    "SubAdministrativeAreaName": "Ханты-Мансийский автономный округ",
+    "ThoroughfareName": "Сосновая улица",
+    "PremiseNumber": "12с5",
+    "pos": [
+      61.238177,
+      73.493419
+    ]
+  },
+  "syktyvkar": {
+    "LocalityName": "Сыктывкар",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Республика Коми",
+    "SubAdministrativeAreaName": "городской округ Сыктывкар",
+    "ThoroughfareName": "Сысольское шоссе",
+    "PremiseNumber": "33",
+    "pos": [
+      61.641216,
+      50.820453
+    ]
+  },
+  "taganrog": {
+    "LocalityName": "Таганрог",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Ростовская область",
+    "SubAdministrativeAreaName": "городской округ Таганрог",
+    "ThoroughfareName": "улица Чучева",
+    "PremiseNumber": "1",
+    "pos": [
+      47.217953,
+      38.876597
+    ]
+  },
+  "tambov": {
+    "LocalityName": "Тамбов",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Тамбовская область",
+    "SubAdministrativeAreaName": "городской округ Тамбов",
+    "ThoroughfareName": "улица Академика Островитянова",
+    "PremiseNumber": "9Б",
+    "pos": [
+      52.699985,
+      41.422665
+    ]
+  },
+  "tver": {
+    "LocalityName": "Тверь",
+    "postal_code": "170025",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Тверская область",
+    "SubAdministrativeAreaName": "городской округ Тверь",
+    "ThoroughfareName": "3-й переулок",
+    "PremiseNumber": "6с1",
+    "pos": [
+      56.804564,
+      35.999787
+    ]
+  },
+  "tolyatti": {
+    "LocalityName": "Тольятти",
+    "postal_code": "445043",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Самарская область",
+    "SubAdministrativeAreaName": "городской округ Тольятти",
+    "ThoroughfareName": "Коммунальная улица",
+    "PremiseNumber": "23",
+    "pos": [
+      53.558176,
+      49.31573
+    ]
+  },
+  "tomsk": {
+    "LocalityName": "Томск",
+    "postal_code": "634006",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Томская область",
+    "SubAdministrativeAreaName": "городской округ Томск",
+    "ThoroughfareName": "улица Пушкина",
+    "PremiseNumber": "63с10",
+    "pos": [
+      56.498078,
+      84.99084
+    ]
+  },
+  "tula": {
+    "LocalityName": "деревня Нижнее Елькино",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Тульская область",
+    "SubAdministrativeAreaName": "муниципальное образование Тула",
+    "ThoroughfareName": "д. Нижнее Елькино",
+    "PremiseNumber": "77",
+    "pos": [
+      54.15179802159564, 37.536148402926266
+    ]
+  },
+  "tyumen": {
+    "LocalityName": "Тюмень",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Тюменская область",
+    "SubAdministrativeAreaName": "городской округ Тюмень",
+    "ThoroughfareName": "Ялуторовский тракт, 11-й километр",
+    "PremiseNumber": "9Дс2",
+    "pos": [
+      57.093927,
+      65.672022
+    ]
+  },
+  "ulan-ude": {
+    "LocalityName": "Улан-Удэ",
+    "postal_code": "670000",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Республика Бурятия",
+    "SubAdministrativeAreaName": "городской округ Улан-Удэ",
+    "ThoroughfareName": "Дальненагорная улица",
+    "PremiseNumber": "62Б",
+    "pos": [
+      51.824902,
+      107.613976
+    ]
+  },
+  "ulyanovsk": {
+    "LocalityName": "Ульяновск",
+    "postal_code": "432045",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Ульяновская область",
+    "SubAdministrativeAreaName": "городской округ Ульяновск",
+    "ThoroughfareName": "улица Ефремова",
+    "PremiseNumber": "52",
+    "pos": [
+      54.289157,
+      48.284258
+    ]
+  },
+  "ufa": {
+    "LocalityName": "Уфа",
+    "postal_code": "450095",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Республика Башкортостан",
+    "SubAdministrativeAreaName": "городской округ Уфа",
+    "ThoroughfareName": "Майкопская улица",
+    "PremiseNumber": "59",
+    "pos": [
+      54.687608,
+      55.800794
+    ]
+  },
+  "habarovsk": {
+    "LocalityName": "Хабаровск",
+    "postal_code": "680032",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Хабаровский край",
+    "SubAdministrativeAreaName": "городской округ Хабаровск",
+    "ThoroughfareName": "Целинная улица",
+    "PremiseNumber": "8",
+    "pos": [
+      48.430706,
+      135.153367
+    ]
+  },
+  "khanty-mansiysk": {
+    "LocalityName": "Ханты-Мансийск",
+    "postal_code": "628011",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Тюменская область",
+    "SubAdministrativeAreaName": "Ханты-Мансийский автономный округ",
+    "ThoroughfareName": "Объездная улица",
+    "PremiseNumber": "3",
+    "pos": [
+      61.006097,
+      68.990084
+    ]
+  },
+  "cheboksary": {
+    "LocalityName": "Чебоксары",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Чувашская Республика",
+    "SubAdministrativeAreaName": "городской округ Чебоксары",
+    "ThoroughfareName": "Канашское шоссе",
+    "PremiseNumber": "7/1",
+    "pos": [
+      56.065781,
+      47.270779
+    ]
+  },
+  "chelyabinsk": {
+    "LocalityName": "Челябинск",
+    "postal_code": "454008",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Челябинская область",
+    "SubAdministrativeAreaName": "городской округ Челябинск",
+    "ThoroughfareName": "Свердловский тракт",
+    "PremiseNumber": "5",
+    "pos": [
+      55.205867,
+      61.385288
+    ]
+  },
+  "chita": {
+    "LocalityName": "Чита",
+    "postal_code": "672038",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Забайкальский край",
+    "SubAdministrativeAreaName": "городской округ Чита",
+    "ThoroughfareName": "улица Сухая Падь",
+    "PremiseNumber": "3",
+    "pos": [
+      52.065615,
+      113.50157
+    ]
+  },
+  "yakutsk": {
+    "LocalityName": "Якутск",
+    "postal_code": null,
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Республика Саха (Якутия)",
+    "SubAdministrativeAreaName": "городской округ Якутск",
+    "ThoroughfareName": "Автодорожная улица",
+    "PremiseNumber": "4/9",
+    "pos": [
+      62.004987,
+      129.689805
+    ]
+  },
+  "yaroslavl": {
+    "LocalityName": "Ярославль",
+    "postal_code": "150064",
+    "CountryName": "Россия",
+    "AdministrativeAreaName": "Ярославская область",
+    "SubAdministrativeAreaName": "городской округ Ярославль",
+    "ThoroughfareName": "Промышленная улица",
+    "PremiseNumber": "18Д",
+    "pos": [
+      57.660947,
+      39.802446
+    ]
+  }
+}
