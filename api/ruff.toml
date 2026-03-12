@@ -1,0 +1,27 @@
+target-version = "py311"
+
+line-length = 119
+
+[lint]
+extend-select = [
+    "UP", # pyupgrade
+    "B",
+    "I",
+]
+
+ignore = [
+    "B008",
+    "F401",
+    "B904",
+    "F841",
+    "F821",
+    "E501",
+]
+
+# Disable fix for unused imports (`F401`).
+# отменяет удаление неиспользуемых импортов
+unfixable = ["F401"]
+
+exclude = [
+    "amtl_api/local",
+]

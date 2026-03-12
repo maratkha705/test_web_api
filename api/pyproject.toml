@@ -1,0 +1,45 @@
+[tool.poetry]
+name = "amtl-web-api"
+version = "0.0.28"
+description = "xy"
+authors = ["Marat Khabibulin <maratkha705@gmail.com>"]
+readme = "README.md"
+packages = [{include = "amtl_api"}]
+
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+aiofiles = "24.1.0"
+aiosqlite = "0.21.0"
+alembic="1.16.4"
+asyncio = "3.4.3"
+asyncpg = "0.29.0"
+attrs = "23.2.0"
+itsdangerous = "2.2.0"
+jinja2 = "3.1.4"
+python-json-logger = "2.0.0"
+pyarrow = "17.0.0"
+psutil = "7.1.0"
+psycopg2-binary = "2.9.9"
+python-rapidjson = "1.20"
+redis = "5.2.1"
+hiredis = "3.1.0"
+ruff = "0.9.5"
+SQLAlchemy = "2.0.41"
+thread = "2.0.5"
+fastapi = "0.118.0"
+pandas = "2.2.2"
+geoip2 = "4.8.0"
+
+xxhash = "3.4.1"
+python-slugify = "8.0.4"
+
+pydantic-settings = "2.3.4"
+setuptools = "71.0.4"
+uvicorn = {version = "0.28.0", extras = ["standard"]}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
